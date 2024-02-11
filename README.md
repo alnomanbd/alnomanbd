@@ -1,9 +1,7 @@
-### Hi there 👋, Welcome to my Github Profile :hearts:
+### Hi there 👋 I'm Al Noman, Welcome to my Github Profile :hearts:
 
 <!--
 **alnomanbd/alnomanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-👋 Hey there, I'm Al Noman!
 
 🌍 Hailing from Bangladesh, I'm a passionate full-stack web application developer with a love for coding and a knack for building innovative solutions.
 

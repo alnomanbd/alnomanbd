@@ -3,9 +3,9 @@
 <!--
 **alnomanbd/alnomanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-👋 Hey there, I'm John!
+👋 Hey there, I'm Al Noman!
 
-🌍 Hailing from India, I'm a passionate full-stack web application developer with a love for coding and a knack for building innovative solutions.
+🌍 Hailing from Bangladesh, I'm a passionate full-stack web application developer with a love for coding and a knack for building innovative solutions.
 
 💻 As a full-stack enthusiast, I thrive on crafting seamless user experiences and robust backend systems. From frontend magic with HTML/CSS/JavaScript to backend wizardry with Node.js, Express, and MongoDB, I revel in every aspect of the development journey.
 

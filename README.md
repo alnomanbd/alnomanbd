@@ -11,7 +11,7 @@
 
 📫 Let's connect! Feel free to reach out to collaborate on exciting projects or just geek out over code together.
 
-![Github Banner](mern-stack.gif)
+![Github Banner](/assets/mern-stack.gif)
 
 :coffee: &emsp;Connect with me!
 

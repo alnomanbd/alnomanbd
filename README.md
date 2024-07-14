@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Al Noman, Welcome to my Github Profile :hearts:
 
+![Github Banner](/assets/api.gif)
+
 <!--
 **alnomanbd/alnomanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
